@@ -1,0 +1,122 @@
+[2023-11-27 09:31:30] User: Kristi0211 - Action: Logged in
+[2023-11-27 09:42:22] User: user1 - Action: Logged in
+[2023-11-27 09:42:35] User: admin - Action: Logged in
+[2023-11-27 09:46:21] User: lera - Action: Logged in
+[2023-11-27 09:46:31] User: user2 - Action: Logged in
+[2023-11-27 09:46:37] User: admin - Action: Logged in
+[2023-11-27 09:52:27] User: lera - Action: Performed action XYZ
+[2023-11-27 09:52:27] User: admin - Action: Logged out
+[2023-11-27 09:52:50] User: lera - Action: Logged in
+[2023-11-27 09:53:41] User:  - Action: Performed action XYZ
+[2023-11-27 09:53:41] User: lera - Action: Logged out
+[2023-11-27 09:54:26] User: lera - Action: Performed action XYZ
+[2023-11-27 09:54:26] User: lera - Action: Logged out
+[2023-11-27 09:54:36] User: Kristi0211 - Action: Logged in
+[2023-11-27 09:54:36] User: Kristi0211 - Action: Logged in
+[2023-11-27 09:54:36] User: Kristi0211 - Action: Performed action XYZ
+[2023-11-27 09:54:37] User: Kristi0211 - Action: Logged out
+[2023-11-27 10:44:57] User: Kristi0211 - Action: Performed action XYZ
+[2023-11-27 10:44:57] User: Kristi0211 - Action: Logged out
+[2023-11-27 10:50:59] User: Kristi0211 - Action: Logged in
+[2023-11-27 10:50:59] User: Kristi0211 - Action: Performed action XYZ
+[2023-11-27 10:50:59] User: Kristi0211 - Action: Logged out
+[2023-11-27 10:51:12] User: user1 - Action: Performed action XYZ
+[2023-11-27 10:51:12] User: user1 - Action: Logged out
+[2023-11-27 11:23:54] User: user1 - Action: Performed action XYZ
+[2023-11-27 11:23:54] User: user1 - Action: Logged out
+[2023-11-30 19:55:38] User:  - Action: Performed action XYZ
+[2023-11-30 19:55:38] User:  - Action: Logged out
+[2023-11-30 20:17:18] User:  - Action: Performed action XYZ
+[2023-11-30 20:17:18] User:  - Action: Logged out
+[2023-11-30 20:21:16] User: user1 - Action: Performed action XYZ
+[2023-11-30 20:21:16] User: user1 - Action: Logged out
+[2023-11-30 20:21:41] User: user1 - Action: Performed action XYZ
+[2023-11-30 20:21:41] User: user1 - Action: Logged out
+[2023-11-30 22:30:24] User: user1 - Action: Performed action XYZ
+[2023-11-30 22:30:24] User: user1 - Action: Logged out
+[2023-11-30 22:34:36] User: Kristi0211 - Action: Logged in
+[2023-11-30 22:34:36] User: Kristi0211 - Action: Performed action XYZ
+[2023-11-30 22:34:36] User: Kristi0211 - Action: Logged out
+[2023-11-30 22:38:53] User: user1 - Action: Performed action XYZ
+[2023-11-30 22:38:53] User: user1 - Action: Logged out
+[2023-12-04 10:35:34] User:  - Action: Performed action XYZ
+[2023-12-04 10:35:34] User:  - Action: Logged out
+[2023-12-04 10:48:50] User: user1 - Action: Performed action XYZ
+[2023-12-04 10:48:50] User: user1 - Action: Logged out
+[2023-12-04 10:49:36] User: user1 - Action: Performed action XYZ
+[2023-12-04 10:49:36] User: user1 - Action: Logged out
+[2023-12-04 10:49:46] User: user1 - Action: Performed action XYZ
+[2023-12-04 10:49:46] User: user1 - Action: Logged out
+[2023-12-04 10:50:05] User: user1 - Action: Performed action XYZ
+[2023-12-04 10:50:05] User: user1 - Action: Logged out
+[2023-12-04 10:50:13] User: user1 - Action: Performed action XYZ
+[2023-12-04 10:50:13] User: user1 - Action: Logged out
+[2023-12-04 10:50:35] User: Kristi0211 - Action: Logged in
+[2023-12-04 10:50:35] User: Kristi0211 - Action: Performed action XYZ
+[2023-12-04 10:50:35] User: Kristi0211 - Action: Logged out
+[2023-12-04 10:50:40] User: Kristi0211 - Action: Logged in
+[2023-12-04 10:50:40] User: Kristi0211 - Action: Performed action XYZ
+[2023-12-04 10:50:40] User: Kristi0211 - Action: Logged out
+[2023-12-04 11:03:58] User: user1 - Action: Performed action XYZ
+[2023-12-04 11:03:58] User: user1 - Action: Logged out
+[2023-12-04 11:06:23] User: user1 - Action: Performed action XYZ
+[2023-12-04 11:06:23] User: user1 - Action: Logged out
+[2023-12-04 11:07:04] User: user1 - Action: Performed action XYZ
+[2023-12-04 11:07:04] User: user1 - Action: Logged out
+[2023-12-04 11:09:30] User: user1 - Action: Performed action XYZ
+[2023-12-04 11:09:30] User: user1 - Action: Logged out
+[2023-12-04 11:13:19] User: user1 - Action: Performed action XYZ
+[2023-12-04 11:13:19] User: user1 - Action: Logged out
+[2023-12-04 11:14:01] User: Kristi0211 - Action: Logged in
+[2023-12-04 11:14:01] User: Kristi0211 - Action: Performed action XYZ
+[2023-12-04 11:14:01] User: Kristi0211 - Action: Logged out
+[2023-12-04 11:14:06] User: Kristi0211 - Action: Logged in
+[2023-12-04 11:14:06] User: Kristi0211 - Action: Performed action XYZ
+[2023-12-04 11:14:06] User: Kristi0211 - Action: Logged out
+[2023-12-04 11:14:11] User: Kristi0211 - Action: Logged in
+[2023-12-04 11:14:11] User: Kristi0211 - Action: Performed action XYZ
+[2023-12-04 11:14:11] User: Kristi0211 - Action: Logged out
+[2023-12-04 11:14:18] User: user1 - Action: Performed action XYZ
+[2023-12-04 11:14:18] User: user1 - Action: Logged out
+[2023-12-10 23:12:03] User:  - Action: Performed action XYZ
+[2023-12-10 23:12:03] User:  - Action: Logged out
+[2023-12-10 23:21:04] User:  - Action: Performed action XYZ
+[2023-12-10 23:21:04] User:  - Action: Logged out
+[2023-12-10 23:55:44] User:  - Action: Performed action XYZ
+[2023-12-10 23:55:44] User:  - Action: Logged out
+[2023-12-10 23:59:59] User: admin - Action: Performed action XYZ
+[2023-12-10 23:59:59] User: admin - Action: Logged out
+[2023-12-11 00:13:38] User: Kristi0211 - Action: Logged in
+[2023-12-11 00:13:38] User: Kristi0211 - Action: Performed action XYZ
+[2023-12-11 00:13:38] User: Kristi0211 - Action: Logged out
+[2023-12-11 00:13:58] User: Kristi0211 - Action: Logged in
+[2023-12-11 00:13:58] User: Kristi0211 - Action: Performed action XYZ
+[2023-12-11 00:13:58] User: Kristi0211 - Action: Logged out
+[2023-12-11 00:14:09] User: Kristi0211 - Action: Logged in
+[2023-12-11 00:14:09] User: Kristi0211 - Action: Performed action XYZ
+[2023-12-11 00:14:09] User: Kristi0211 - Action: Logged out
+[2023-12-11 00:14:28] User: Kristi0211 - Action: Logged in
+[2023-12-11 00:14:28] User: Kristi0211 - Action: Performed action XYZ
+[2023-12-11 00:14:28] User: Kristi0211 - Action: Logged out
+[2023-12-11 10:45:37] User: user1 - Action: Performed action XYZ
+[2023-12-11 10:45:37] User: user1 - Action: Logged out
+[2023-12-11 10:46:56] User: user1 - Action: Performed action XYZ
+[2023-12-11 10:46:56] User: user1 - Action: Logged out
+[2023-12-11 10:47:22] User: Kristi0211 - Action: Logged in
+[2023-12-11 10:47:22] User: Kristi0211 - Action: Performed action XYZ
+[2023-12-11 10:47:22] User: Kristi0211 - Action: Logged out
+[2023-12-11 10:47:29] User: Kristi0211 - Action: Logged in
+[2023-12-11 10:47:29] User: Kristi0211 - Action: Performed action XYZ
+[2023-12-11 10:47:29] User: Kristi0211 - Action: Logged out
+[2023-12-11 10:47:36] User: user1 - Action: Performed action XYZ
+[2023-12-11 10:47:36] User: user1 - Action: Logged out
+[2024-01-01 18:16:49] User:  - Action: Performed action XYZ
+[2024-01-01 18:16:49] User:  - Action: Logged out
+[2024-01-01 18:17:58] User: user1 - Action: Performed action XYZ
+[2024-01-01 18:17:58] User: user1 - Action: Logged out
+[2024-01-01 18:18:08] User: user1 - Action: Performed action XYZ
+[2024-01-01 18:18:08] User: user1 - Action: Logged out
+[2024-01-01 18:18:10] User: user1 - Action: Performed action XYZ
+[2024-01-01 18:18:10] User: user1 - Action: Logged out
+[2024-01-01 18:18:37] User: user1 - Action: Performed action XYZ
+[2024-01-01 18:18:37] User: user1 - Action: Logged out
